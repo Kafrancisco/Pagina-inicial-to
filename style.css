@@ -76,26 +76,32 @@ border-color: #25316D;
     padding: 15px 10px;
     text-align: center;
     color: white;
+
     }
     
     .pieDePagina .seccion1{
         display: flex;
         background-color: #D5D2D1;
+        bottom: 0;
+      
     }
     
     .pieDePagina .box1{
         margin: 0 30px;
         order: 0;
+      
     }
     
     .pieDePagina .box2{
         margin: 0 30px;
         order: 1;
+       
     }
     
     .pieDePagina .box3{
         margin: 0 30px;
         order: 2;
+        
     }
     
     .box1 .logo{
